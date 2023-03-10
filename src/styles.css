@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow:wght@300;400;500;600;700&display=swap');
+
+html {
+    scroll-behavior: smooth;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Barlow', sans-serif;
+}
+
+:root {
+    --primary: #1E2B3A;
+    --light: #F2F5F9;
+    --dark: #191A1C;
+}
+
+.h1 {
+    font-size: 96px;
+}
+
+.h2 {
+    font-size: 48px;
+}
+
+.h3 {
+    font-size: 31px;
+}
+
+.h4 {
+    font-size: 25px;
+}
+
+p {
+    line-height: 1.5;
+    color: var(--light);
+}

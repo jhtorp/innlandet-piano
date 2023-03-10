@@ -1,2 +1,9 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<script>
+	import '../styles.css';
+
+	import Hero from '$lib/components/hero/Hero.svelte';
+</script>
+
+<section class="hero-section">
+	<Hero />
+</section>
