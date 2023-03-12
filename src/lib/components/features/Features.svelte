@@ -25,7 +25,7 @@
 				Et piano består av mange deler som skal fungere optimalt sammen. Dette kan man merke ved at
 				for eksempel en eller flere toner låter ujevnt eller skarpt eller at tangenter oppleves
 				forskjellige å spille på. Derfor trenger instrumentet også med jevne mellomrom en service
-				hvor pianoteknikeren regulerer og intonerer instrumentet.
+				hvor pianoteknikeren regulerer og intonerer instrumentet
 			</p>
 		</div>
 	</div>
@@ -40,7 +40,7 @@
 				Tangenter eller pedaler som ikke virker, toner som ikke låter, knirk eller annen ulyd? Det
 				aller meste på et flygel eller piano lar seg reparere! For å forebygge slike problemer
 				anbefaler Innlandet Piano å få installert et eget klimaanlegg for å bevare kvaliteten til
-				instrumentet og holde stemmingen bedre.
+				instrumentet og holde stemmingen bedre
 			</p>
 		</div>
 
@@ -52,7 +52,7 @@
 			<p>
 				Av og til kan det være nødvendig med en større gjennomgang av flygelet eller pianoet for å
 				hjelpe det tilbake til et bra instrument! Mekaniske deler kan være utslitt og må byttes,
-				eller det trenger en større gjennomgang med justeringer.
+				eller det trenger en større gjennomgang med justeringer
 			</p>
 		</div>
 	</div>
@@ -61,7 +61,7 @@
 <style>
 	.container {
 		max-width: 400px;
-		margin: 64px auto 64px auto;
+		margin: 48px auto 48px auto;
 		display: flex;
 		flex-direction: column;
 		gap: 64px;
@@ -116,6 +116,15 @@
 
 		.card {
 			flex: 1;
+		}
+
+		h3 {
+			font-size: 25px;
+		}
+
+		p {
+			font-size: 20px;
+			margin-top: 16px;
 		}
 	}
 

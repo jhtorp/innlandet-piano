@@ -17,6 +17,10 @@ html {
     --dark: #191A1C;
 }
 
+body {
+    background: var(--light)
+}
+
 .h1 {
     font-size: 96px;
 }
